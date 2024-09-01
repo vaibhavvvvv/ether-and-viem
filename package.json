@@ -1,0 +1,17 @@
+{
+  "name": "ethers_examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bun": "^1.1.26",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.5.4",
+    "viem": "^2.21.1"
+  }
+}
